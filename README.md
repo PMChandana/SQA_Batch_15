@@ -1,2 +1,2 @@
-# SQA_Batch_15
-Testing area for SQA batch 15
+# SQA_Batch_15 Development Branch
+Coding for inventory management system
